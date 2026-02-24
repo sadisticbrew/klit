@@ -1,3 +1,4 @@
+# Starting work on hash-object logic
 def main():
     print("Hello from klit!")
 
